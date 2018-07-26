@@ -1,4 +1,4 @@
-#bov-learning-web-components
+# bov-learning-web-components
 
 #### Project 1 - Calculator
 
