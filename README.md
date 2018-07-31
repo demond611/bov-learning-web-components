@@ -20,6 +20,6 @@ https://demond611.github.io/web-components-forms/
 
 #### Project 5 - Shopping Cart
 
-https://demond611.github.io/web-components-forms/cart.html
+https://github.com/demond611/web-components-cart
 
-https://demond611.github.io/web-components-forms/cart.html
+https://demond611.github.io/web-components-cart/
